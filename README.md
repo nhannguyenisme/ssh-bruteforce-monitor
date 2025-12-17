@@ -65,6 +65,6 @@ Automated blocking or advanced response mechanisms are planned for future semest
 ---
 
 ## 9. Author
-Student: [Your Name]  
+Student: Nguyen Thanh Nhan  
 Major: Cybersecurity  
 Semester: 2
